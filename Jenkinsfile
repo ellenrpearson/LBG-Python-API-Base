@@ -6,7 +6,7 @@ pipeline {
 
         GCR_CREDENTIALS_ID = 'week3-project-key'
 
-        IMAGE_NAME = 'week3-project-ep'
+        IMAGE_NAME = 'week3-project-ep-1'
 
         GCR_URL = 'gcr.io/lbg-mea-18'
 
