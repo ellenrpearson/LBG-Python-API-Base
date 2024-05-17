@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        GCR_CREDENTIALS_ID = 'gcp // week3-project-key'
+        GCR_CREDENTIALS_ID = 'week3-project-key'
 
         IMAGE_NAME = 'week3-project-ep'
 
